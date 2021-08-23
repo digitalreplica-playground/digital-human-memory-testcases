@@ -1,5 +1,2 @@
 .DS_Store
-.threads/
-threads/
-.symlinks/
-symlinks/
+symlink/
